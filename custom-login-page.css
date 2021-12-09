@@ -1,0 +1,44 @@
+
+body {
+  background: Whitesmoke  url(https://avm-polish.ru/wp-content/uploads/2021/11/challenger-5880009_1920-1.jpg) !important;
+  background-size: cover !important;
+}
+ 
+
+#login h1 a { 
+  background: url(https://avm-polish.ru/wp-content/uploads/2021/11/cropped-cropped-Снимок.png) no-repeat;
+  background-position: center center;
+  width: 500px;
+  height: 200px;
+}
+ 
+
+#login form {
+  background-color: Grey;
+}
+ 
+
+#login .input {
+  background-color: Lightgrey;
+}
+ 
+
+#login label {
+  color: White;
+  font-size: 1rem;
+}
+
+#login input[type=submit] {
+  background-color: red;
+  border-radius:0px;
+  border:none;
+  border-bottom:4px solid Lightorange;
+}
+ 
+#login input[type=submit]:active {} 
+ 
+
+#nav a,
+#backtoblog a {
+  color: white !important;
+}
